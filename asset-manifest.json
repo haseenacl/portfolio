@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/haseenacl/portfolio.git/static/css/main.65351687.css",
+    "main.js": "/haseenacl/portfolio.git/static/js/main.3bac605a.js",
+    "static/media/profile.jpg": "/haseenacl/portfolio.git/static/media/profile.9b8faedfa0b1ea512acc.jpg",
+    "static/media/project2.jpg": "/haseenacl/portfolio.git/static/media/project2.5fae296d371cc56cd98a.jpg",
+    "static/media/project1.jpg": "/haseenacl/portfolio.git/static/media/project1.ab6db16252fdad0c1a76.jpg",
+    "static/media/project4.jpg": "/haseenacl/portfolio.git/static/media/project4.a7b7ed11daa072b234eb.jpg",
+    "static/media/project3.jpg": "/haseenacl/portfolio.git/static/media/project3.03535c34c110b7ea292b.jpg",
+    "static/media/project5.jpg": "/haseenacl/portfolio.git/static/media/project5.f78aa3fd070fc4dd0bd1.jpg",
+    "static/media/project6.jpg": "/haseenacl/portfolio.git/static/media/project6.a22c939898d6c4613b65.jpg",
+    "static/media/logo.png": "/haseenacl/portfolio.git/static/media/logo.aec0fc19ce4f00552876.png",
+    "static/media/logo2.png": "/haseenacl/portfolio.git/static/media/logo2.aec0fc19ce4f00552876.png",
+    "index.html": "/haseenacl/portfolio.git/index.html",
+    "main.65351687.css.map": "/haseenacl/portfolio.git/static/css/main.65351687.css.map",
+    "main.3bac605a.js.map": "/haseenacl/portfolio.git/static/js/main.3bac605a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65351687.css",
+    "static/js/main.3bac605a.js"
+  ]
+}
